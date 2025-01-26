@@ -1,0 +1,2 @@
+i just created one new demo folder and ive try to show it on my git profile
+for that first i need to change directory and as usuall 
